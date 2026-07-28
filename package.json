@@ -1,0 +1,8 @@
+{
+  "name": "blake-card-pricer-v4",
+  "version": "4.0.0",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  }
+}
